@@ -15,28 +15,19 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+* Python 3.8
+* Requirments are in Requirements.txt
+
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com//repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
+1. Clone this repo
+2. Have your input ready. Input is a dataframe with one row per individual. Columns will include:
+* Model prediction (as a probability)
+* Binary outcome (i.e. 0 or 1, where 1 indicates the favorable outcome for the individual being scored)
+* Model label
+* Sample weights
+  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
