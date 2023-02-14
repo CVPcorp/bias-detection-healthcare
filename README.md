@@ -3,8 +3,6 @@
 ## About The Project
 
 This is Team CVP's solution to [NIH NCAT's Bias Detection Tools in HealthCare Challenge]( https://expeditionhacks.com/bias-detection-healthcare/)
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
